@@ -1,7 +1,7 @@
 Steps to run the project
 1. Create a git pull
 2. run "npm install" to install dependencies
-3. create mysql database "aubergine_users"
+3. create mysql database "aubergine_users" and make the required changes to .env file to change mysql password
 4. run "npm start" to start the application
 
 API's are as follows: 
