@@ -1,0 +1,16 @@
+{
+    "development": {
+      "username": "devel",
+      "database": "aubergine_users",
+      "host": "localhost",
+      "dialect": "mysql",
+      "port": 3306
+    },
+    "production": {
+      "username": "devel",
+      "database": "aubergine_users",
+      "host": "localhost",
+      "dialect": "mysql",
+      "port": 3306
+    }
+  }
